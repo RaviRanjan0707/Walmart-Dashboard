@@ -1,0 +1,37 @@
+This project presents a comprehensive Walmart Dashboard developed in Power BI, designed to deliver actionable insights and support data-driven decision-making. The dashboard serves as a powerful tool for monitoring and analyzing sales performance across various dimensions.
+
+
+Key Features
+
+Key Performance Indicators (KPIs): 
+Displays crucial metrics, including total sales, profit margins, average order value, and year-over-year growth, giving a high-level overview of business performance.
+Dynamic Visualizations:
+Leverages interactive charts, bar graphs, line graphs, and geographic maps to present data in an intuitive and visually engaging manner.
+Trend Analysis: 
+Tracks sales trends over time to identify seasonal fluctuations and forecast future performance.
+Drill-Down Capabilities: 
+Allows users to filter and analyze data at granular levels, such as by region, product category, or specific timeframes.
+Usability: 
+Designed with user-friendly navigation and interactive slicers to enhance the analytical experience.
+
+
+Business Impact
+
+This dashboard empowers business stakeholders to:
+
+Identify Trends: 
+Understand historical sales performance and spot emerging trends.
+Optimize Strategy: 
+Pinpoint underperforming regions or categories and take corrective actions.
+Enhance Decision-Making: 
+Use data to inform strategic business decisions with clarity and confidence.
+
+
+Technical Details
+Tools Used: 
+Power BI for visualization, DAX for data modeling, and data cleaning techniques.
+Data Sources:
+Aggregated sales data from Walmart, segmented by time, region, and category.
+
+
+This project highlights expertise in business intelligence, data visualization, and advanced analytics while addressing real-world challenges in sales and performance management.
